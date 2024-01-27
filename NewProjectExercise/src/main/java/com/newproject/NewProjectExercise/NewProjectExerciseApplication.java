@@ -1,0 +1,13 @@
+package com.newproject.NewProjectExercise;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class NewProjectExerciseApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(NewProjectExerciseApplication.class, args);
+	}
+
+}
